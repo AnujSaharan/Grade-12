@@ -7,7 +7,7 @@ The following C++ programs are Lab Exercises for Grade 12 Computer Science stude
 ---
 ---
 
-###Contact Me
+# Contact Me
 
 **Email:** anujsinghsaharan@gmail.com
 
