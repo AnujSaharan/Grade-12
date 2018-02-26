@@ -5,7 +5,6 @@
 The following C++ programs are Lab Exercises for Grade 12 Computer Science students at The Air Force School, New Delhi. These solutions are meant to be used as hints/references for your own solutions only.
 
 ---
----
 
 # Contact Me
 
